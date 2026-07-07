@@ -271,5 +271,3 @@ Detection → Extraction → Classification → Decision Support
 ```
 
 A simple, scalable approach to methane monitoring using open data.
-
-```
