@@ -29,7 +29,7 @@ This project provides a **lightweight, transparent, and reproducible pipeline** 
 
 ---
 
-## 🛰️ Data Source
+## 🛰️ Data Source and Scene
 
 **Tanager Core Imagery (Planet Labs)**  
 https://www.planet.com/data/stac/tanager-core-imagery/catalog.json
@@ -37,6 +37,12 @@ https://www.planet.com/data/stac/tanager-core-imagery/catalog.json
 - Open-access STAC catalog  
 - No authentication required  
 - Static structure (no search API)
+This analysis uses a methane plume scene from the Planet Tanager Open Data STAC Catalog:
+
+- Collection: GHG-plumes  
+- Item ID: 20241004_081921_28_4001  
+
+The exact area of interest (AOI) is defined by the dataset and represents a real methane emission observation used for analysis and validation.
 
 Navigation structure used:
 
