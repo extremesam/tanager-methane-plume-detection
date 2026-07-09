@@ -37,6 +37,7 @@ https://www.planet.com/data/stac/tanager-core-imagery/catalog.json
 - Open-access STAC catalog  
 - No authentication required  
 - Static structure (no search API)
+
 This analysis uses a methane plume scene from the Planet Tanager Open Data STAC Catalog:
 
 - Collection: GHG-plumes  
